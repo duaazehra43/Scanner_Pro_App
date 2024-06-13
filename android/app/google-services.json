@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620713673389",
+    "project_id": "scanner-pro-d3fc5",
+    "storage_bucket": "scanner-pro-d3fc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620713673389:android:80b8dd8d71649e56d77c24",
+        "android_client_info": {
+          "package_name": "com.example.scan_pro_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYy4egAwHfAEe-bB2g03NSK-2rKSzRfsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
